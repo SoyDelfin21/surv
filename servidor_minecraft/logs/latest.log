@@ -1,0 +1,64 @@
+[18:27:18] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[18:27:19] [ServerMain/INFO]: No existing world data, creating new world
+[18:27:21] [ServerMain/INFO]: Loaded 1470 recipes
+[18:27:21] [ServerMain/INFO]: Loaded 1584 advancements
+[18:27:21] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[18:27:21] [Server thread/INFO]: Loading properties
+[18:27:21] [Server thread/INFO]: Default game type: SURVIVAL
+[18:27:21] [Server thread/INFO]: Generating keypair
+[18:27:21] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:27:21] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:27:21] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:27:21] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:27:21] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:27:21] [Server thread/INFO]: Preparing level "world"
+[18:27:22] [Server thread/INFO]: Selecting global world spawn...
+[18:27:35] [Server thread/INFO]: Loading 0 persistent chunks...
+[18:27:35] [Server thread/INFO]: Preparing spawn area: 100%
+[18:27:35] [Server thread/INFO]: Time elapsed: 12588 ms
+[18:27:35] [Server thread/INFO]: Done (13.139s)! For help, type "help"
+[18:28:22] [Server thread/INFO]: lukio2093[/127.128.140.106:32983] logged in with entity id 1 at (499.5, 66.0, 771.5)
+[18:28:22] [Server thread/INFO]: lukio2093 joined the game
+[18:30:32] [Server thread/INFO]: Made lukio2093 a server operator
+[18:31:00] [Server thread/INFO]: [lukio2093: Played sound minecraft:item.crossbow.quick_charge_2 to lukio2093]
+[18:36:03] [Server thread/INFO]: [lukio2093: Teleported lukio2093 to -758.500000, 63.000000, 1049.500000]
+[18:36:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2061ms or 41 ticks behind
+[18:36:19] [Server thread/INFO]: [lukio2093: Teleported lukio2093 to -758.500000, 63.000000, 1049.500000]
+[18:39:15] [Server thread/INFO]: [lukio2093: Teleported lukio2093 to -758.500000, 62.000000, 1049.500000]
+[18:39:26] [Server thread/INFO]: lukio2093 has made the advancement [Acquire Hardware]
+[18:39:28] [Server thread/INFO]: lukio2093 has made the advancement [Diamonds!]
+[18:40:24] [Server thread/INFO]: [lukio2093: Teleported lukio2093 to -1071.500000, 59.151569, 688.500000]
+[18:40:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2771ms or 55 ticks behind
+[18:40:33] [Server thread/INFO]: [lukio2093: Set own game mode to Creative Mode]
+[18:40:35] [Server thread/INFO]: [lukio2093: Set own game mode to Spectator Mode]
+[18:40:39] [Server thread/INFO]: [lukio2093: Set own game mode to Creative Mode]
+[18:40:43] [Server thread/INFO]: Villager dcx['Villager'/2982, l='ServerLevel[world]', x=-1059.72, y=64.00, z=682.37] died, message: 'Villager suffocated in a wall'
+[18:40:46] [Server thread/INFO]: [lukio2093: Gamerule keep_inventory is now set to: true]
+[18:40:48] [Server thread/INFO]: [lukio2093: Set own game mode to Survival Mode]
+[18:41:01] [Server thread/INFO]: lukio2093 has made the advancement [Sweet Dreams]
+[18:41:05] [Server thread/INFO]: [Not Secure] <lukio2093> wsaddqsdad
+[18:43:28] [Server thread/INFO]: lukio2093 fell from a high place
+[18:44:06] [Server thread/INFO]: [lukio2093: Teleported lukio2093 to -3015.500000, 63.000000, -6999.500000]
+[18:44:10] [Server thread/INFO]: [lukio2093: Set own game mode to Creative Mode]
+[18:44:16] [Server thread/INFO]: [lukio2093: Set own game mode to Spectator Mode]
+[18:44:28] [Server thread/INFO]: [lukio2093: Set own game mode to Creative Mode]
+[18:44:41] [Server thread/INFO]: [lukio2093: Applied effect Night Vision to lukio2093]
+[18:44:54] [Server thread/INFO]: [lukio2093: Removed every effect from lukio2093]
+[18:44:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2356ms or 47 ticks behind
+[18:44:58] [Server thread/INFO]: [lukio2093: Applied effect Night Vision to lukio2093]
+[18:45:01] [Server thread/INFO]: [lukio2093: Removed every effect from lukio2093]
+[18:45:07] [Server thread/INFO]: [lukio2093: Set own game mode to Spectator Mode]
+[18:45:09] [Server thread/INFO]: [lukio2093: Set own game mode to Survival Mode]
+[18:45:44] [Server thread/INFO]: [lukio2093: Set own game mode to Spectator Mode]
+[18:45:55] [Server thread/INFO]: [lukio2093: Set own game mode to Survival Mode]
+[18:45:59] [Server thread/INFO]: lukio2093 has made the advancement [Stone Age]
+[18:46:35] [Server thread/INFO]: lukio2093 has made the advancement [Getting an Upgrade]
+[18:49:20] [Server thread/INFO]: lukio2093 has made the advancement [Monster Hunter]
+[18:49:52] [Server thread/INFO]: lukio2093 has made the advancement [Suit Up]
+[18:50:35] [Server thread/INFO]: [lukio2093: Teleported lukio2093 to -4679.500000, 78.000000, -6983.500000]
+[18:50:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3429ms or 68 ticks behind
+[18:52:15] [Server thread/INFO]: lukio2093 was slain by Vindicator
+[18:53:08] [Server thread/INFO]: lukio2093 was slain by Vindicator
+[18:53:12] [Server thread/INFO]: lukio2093 lost connection: Disconnected
+[18:53:12] [Server thread/INFO]: lukio2093 left the game
+[18:54:12] [Server thread/INFO]: Server empty for 60 seconds, pausing
